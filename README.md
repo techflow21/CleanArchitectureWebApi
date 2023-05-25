@@ -1,5 +1,4 @@
  # ASP.NET Core WebApi - Clean Architecture
- 
 ![.NET Core](https://github.com/iammukeshm/CleanArchitecture.WebApi/workflows/.NET%20Core/badge.svg?branch=master)
 ![GitHub stars](https://img.shields.io/github/stars/iammukeshm/CleanArchitecture.WebApi)
 [![Twitter Follow]

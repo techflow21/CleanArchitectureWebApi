@@ -12,8 +12,6 @@ Check out the [Project Page](https://www.codewithmukesh.com/project/aspnet-core-
 Read the [Changelog file](https://github.com/iammukeshm/CleanArchitecture.WebApi/blob/master/CHANGELOG.md) to see the new changes.
 
 ## Annoucement : fullstackhero - .NET 6.0 Clean Architecture WebAPI ! 
-
-
 I am no longer supporting this project. No more new features will be added to this repository.
 I am building a .NET WebApi 6.0 Clean Architecture Boilerplate Project with better features and Multitenancy ofcourse! Visit the new project - https://github.com/fullstackhero/dotnet-webapi-boilerplate
 
